@@ -9,4 +9,4 @@ Doodads Repository
 1. Fix the program by
 1.  finishing the two setter and getter functions in Doodad.java rewriting the client code in setup() to use the two setter and getter functions
 1.  The finished program should print Sum is 5.859870195388794
-1.  Edit the doodads.pde file to reflect the working version.
+1.  Edit the files in Github to reflect the working version.
