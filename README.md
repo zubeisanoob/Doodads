@@ -4,7 +4,7 @@ Doodads Repository
 ## Practice
 
 1. Fork and clone down this respository
-1. Open the Doodads folder in Sublime, or open Doodads.pde in Processing.
+1. Open Doodads.pde in Processing.
 1. Run the program. You should get an error message that says The field Doodad.myNum is not visible because the client code in setup() is trying to access a private member variable.
 1. Fix the program by
 1.  finishing the two setter and getter functions in Doodad.java rewriting the client code in setup() to use the two setter and getter functions
