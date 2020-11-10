@@ -1,7 +1,7 @@
 # Doodads
 Doodads Repository
 
-## Exercise
+## Practice
 
 1. Fork and clone down this respository
 1. Open the Doodads folder in Sublime, or open Doodads.pde in Processing.
