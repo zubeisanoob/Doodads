@@ -1,10 +1,14 @@
 class Doodad
 {
-  private double myNum;
+  public double myNum;
   public Doodad()
   {
-    myNum = 0;
+    myNum = 0.0;
   }
-  public double getNum(){/* your java code */}
-  public void setNum(double n){/* your java code */}
+  public double getNum(){
+    return myNum;
+  }
+  public void setNum(double n) {
+    myNum = n;
+  }
 }
